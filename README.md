@@ -20,29 +20,21 @@
 
 ## About
 
-Second-year Computer Science student. I like web development and UI/UX design, and I learn best by building.
-
-In a hackathon team, I can take UI/UX design, Figma prototypes and the final presentation. I also do photography and video editing.
+Second-year Computer Science student at USTHB. Into web development, UI/UX design, photography and video editing, and I learn best by building.
 
 ## Featured work
 
 ### Code Souls · GDG HACK 3.0, 1st place
 
-A beginner-friendly tech-learning game that borrows ideas from gamification, Habitica and Dark Souls. My team won first place at GDG HACK 3.0.
-
-**My part:** UI/UX design, and I helped prepare the final presentation.
+A beginner-friendly tech-learning game that borrows ideas from gamification, Habitica and Dark Souls. We won first place at GDG HACK 3.0.
 
 ### ClubEvent Hub (GCL · GDG Clubs Link)
 
-A platform concept that connects scientific clubs across Algerian universities.
-
-**My part:** UI/UX design, as part of a team.
+A platform concept that connects scientific clubs across Algerian universities. Our team was elected best code.
 
 ### Eat Around
 
-A food delivery app concept I designed on my own for Visual Hack, with the interfaces and an interactive prototype made in Figma.
-
-**My part:** everything on the design side. This was a solo project.
+A food delivery app concept I designed on my own for Visual Hack, with the interfaces and an interactive prototype made in Figma. A solo project.
 
 ### Personal portfolio
 
