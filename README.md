@@ -55,6 +55,12 @@ Design team member for DevFest'26 (GDG Algiers), plus design work for student cl
 ![HTML](https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=white)
 
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white)
+
+REST APIs · CRUD · SQL and NoSQL databases
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
@@ -62,8 +68,6 @@ Design team member for DevFest'26 (GDG Algiers), plus design work for student cl
 ![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-161b22?style=flat-square&logo=capcut&logoColor=white)
-
-**Learning:** React · TypeScript · Next.js
 
 ## Connect
 
