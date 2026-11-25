@@ -2,7 +2,11 @@
 
 <p align="center">
   Computer Science student at USTHB, Algiers<br>
-  Learning web development by building real things.
+  Web development and UI/UX design
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GDG%20HACK%203.0-1st%20place-3fb950?style=flat-square" alt="GDG HACK 3.0, 1st place">
 </p>
 
 <p align="center">
@@ -16,39 +20,9 @@
 
 ## About
 
-I'm a second-year Computer Science student at USTHB. I'm into web development and UI/UX design, and I'd rather build something imperfect than keep reading about it. I believe the best way to learn is to practice, so that's what I try to do.
+Second-year Computer Science student. I like web development and UI/UX design, and I learn best by building.
 
-- Web development is my main path: I'm working on HTML, CSS and JavaScript, with React next.
-- I have some experience with UI/UX design in Figma, and I like being involved in the design side of a project.
-- I've taken part in GDG activities and team projects, most recently on the design team for DevFest'26 (GDG Algiers).
-- Away from the keyboard: photography, video editing and Mouloudia matches.
-
-## Right now
-
-- Practicing HTML, CSS and JavaScript by building small projects
-- Next on the list: React, then TypeScript and Next.js (I plan to learn them by rebuilding my portfolio)
-- At uni: algorithms, computer architecture and information systems
-
-## Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-161b22?style=flat-square&logo=capcut&logoColor=white)
-
-**Learning:** React · TypeScript · Next.js
+In a hackathon team, I can take UI/UX design, Figma prototypes and the final presentation. I also do photography and video editing.
 
 ## Featured work
 
@@ -72,14 +46,33 @@ A food delivery app concept I designed on my own for Visual Hack, with the inter
 
 ### Personal portfolio
 
-My portfolio is live at [portfolio-delta-two-utda2468d3.vercel.app](https://portfolio-delta-two-utda2468d3.vercel.app). It has a sketchbook look, a dark mode and an English/French switch. There are a couple of hidden things on it if you like poking around.
+Live at [portfolio-delta-two-utda2468d3.vercel.app](https://portfolio-delta-two-utda2468d3.vercel.app). Sketchbook look, dark mode, English and French. There are a couple of hidden things on it if you like poking around.
 
 ### Other design work
 
-Design work for student clubs (SEC, CSE), including a published club post and printed stickers. You can see more of it on [Behance](https://www.behance.net/badjasidali).
+Design team member for DevFest'26 (GDG Algiers), plus design work for student clubs (SEC, CSE), including a published club post and printed stickers. More on [Behance](https://www.behance.net/badjasidali).
+
+## Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-161b22?style=flat-square&logo=capcut&logoColor=white)
+
+**Learning:** React · TypeScript · Next.js
 
 ## Connect
 
 [Portfolio](https://portfolio-delta-two-utda2468d3.vercel.app) &nbsp;·&nbsp; [Behance](https://www.behance.net/badjasidali) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/badja-sid-ali-08145a360) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/badja.sidali/) &nbsp;·&nbsp; [Telegram](https://t.me/SidAliBadja) &nbsp;·&nbsp; [Email](mailto:badjasidali26@gmail.com)
-
-Always happy to talk about design, web development or a team project.
