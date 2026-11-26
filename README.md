@@ -28,17 +28,29 @@ Second-year Computer Science student at USTHB. Into web development, UI/UX desig
 
 A beginner-friendly tech-learning game that borrows ideas from gamification, Habitica and Dark Souls. We won first place at GDG HACK 3.0.
 
+[Repository](https://github.com/Badja-Sidali-cloud/Code-Souls-FRONTEND-)
+
 ### ClubEvent Hub (GCL · GDG Clubs Link)
 
 A platform concept that connects scientific clubs across Algerian universities. Our team was elected best code.
+
+[Repository](https://github.com/Badja-Sidali-cloud/club-student-hub)
 
 ### Eat Around
 
 A food delivery app concept I designed on my own for Visual Hack, with the interfaces and an interactive prototype made in Figma. A solo project.
 
+### Student grade manager (C)
+
+A console app in C that manages a class: it stores students in a binary file, calculates each average and sets a status automatically (admitted, repeating, or top of the class). Made in a group for my first-year algorithms lab at USTHB.
+
+[Repository](https://github.com/Badja-Sidali-cloud/gestionnaire-de-notes-usthb)
+
 ### Personal portfolio
 
 Live at [portfolio-delta-two-utda2468d3.vercel.app](https://portfolio-delta-two-utda2468d3.vercel.app). Sketchbook look, dark mode, English and French. There are a couple of hidden things on it if you like poking around.
+
+[Source code](https://github.com/Badja-Sidali-cloud/portfolio)
 
 ### Other design work
 
